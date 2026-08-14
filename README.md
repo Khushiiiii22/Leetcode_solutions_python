@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0070-climbing-stairs) |
 | [1510-stone-game-iv](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1510-stone-game-iv) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0070-climbing-stairs) |
 | [1510-stone-game-iv](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Linked List
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
