@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0189-rotate-array) |
 | [1510-stone-game-iv](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1510-stone-game-iv) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0189-rotate-array) |
@@ -148,5 +150,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
