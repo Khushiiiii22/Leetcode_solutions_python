@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0485-max-consecutive-ones) |
 | [1386-cinema-seat-allocation](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1386-cinema-seat-allocation) |
+| [1470-shuffle-the-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2149-rearrange-array-elements-by-sign) |
