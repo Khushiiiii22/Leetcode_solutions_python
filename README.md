@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0189-rotate-array) |
 | [1510-stone-game-iv](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0070-climbing-stairs) |
 | [1510-stone-game-iv](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Linked List
 |  |
@@ -74,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2029-stone-game-ix) |
 ## Array
 |  |
@@ -113,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0485-max-consecutive-ones) |
 | [1386-cinema-seat-allocation](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1470-shuffle-the-array) |
+| [1872-stone-game-viii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -204,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0142-linked-list-cycle-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
