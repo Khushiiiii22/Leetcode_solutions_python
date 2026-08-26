@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0283-move-zeroes) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
