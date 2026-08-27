@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0022-generate-parentheses) |
 | [1927-sum-game](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0070-climbing-stairs) |
 | [1510-stone-game-iv](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1872-stone-game-viii) |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1872-stone-game-viii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
