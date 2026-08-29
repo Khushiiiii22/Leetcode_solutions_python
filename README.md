@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0018-4sum) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0128-longest-consecutive-sequence) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
