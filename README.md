@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1470-shuffle-the-array) |
 | [1872-stone-game-viii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1872-stone-game-viii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0142-linked-list-cycle-ii) |
+| [0645-set-mismatch](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0018-4sum) |
+| [0645-set-mismatch](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0645-set-mismatch) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
