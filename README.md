@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -225,12 +227,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0073-set-matrix-zeroes) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -265,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
