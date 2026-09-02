@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0216-combination-sum-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0485-max-consecutive-ones) |
