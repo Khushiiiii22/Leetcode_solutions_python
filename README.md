@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1386-cinema-seat-allocation) |
@@ -289,8 +290,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
