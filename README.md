@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
