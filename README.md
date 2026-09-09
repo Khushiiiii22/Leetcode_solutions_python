@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1386-cinema-seat-allocation) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0940-distinct-subsequences-ii) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0081-search-in-rotated-sorted-array-ii) |
