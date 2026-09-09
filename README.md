@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2029-stone-game-ix) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
