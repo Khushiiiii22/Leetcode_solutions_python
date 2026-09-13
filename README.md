@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0735-asteroid-collision) |
+| [0835-image-overlap](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1004-max-consecutive-ones-iii) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0073-set-matrix-zeroes) |
+| [0835-image-overlap](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
