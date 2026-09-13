@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0199-binary-tree-right-side-view) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
