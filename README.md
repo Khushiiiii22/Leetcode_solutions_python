@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0189-rotate-array) |
+| [0836-rectangle-overlap](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1927-sum-game) |
@@ -383,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0051-n-queens) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
