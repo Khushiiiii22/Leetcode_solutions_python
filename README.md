@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0904-fruit-into-baskets) |
+| [0994-rotting-oranges](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1386-cinema-seat-allocation) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0199-binary-tree-right-side-view) |
+| [0994-rotting-oranges](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
