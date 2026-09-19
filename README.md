@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0733-flood-fill) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0130-surrounded-regions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bit Manipulation
 |  |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0835-image-overlap) |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0199-binary-tree-right-side-view) |
 | [0542-01-matrix](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0733-flood-fill) |
