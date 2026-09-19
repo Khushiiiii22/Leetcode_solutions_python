@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0127-word-ladder) |
 | [0940-distinct-subsequences-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1768-merge-strings-alternately) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0142-linked-list-cycle-ii) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0199-binary-tree-right-side-view) |
 | [0542-01-matrix](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0542-01-matrix) |
@@ -432,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1757-recyclable-and-low-fat-products) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
