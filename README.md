@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1020-number-of-enclaves) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1020-number-of-enclaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bit Manipulation
 |  |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1020-number-of-enclaves) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1020-number-of-enclaves) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
