@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0127-word-ladder) |
 | [0940-distinct-subsequences-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1927-sum-game) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0216-combination-sum-iii) |
+| [1096-brace-expansion-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0018-4sum) |
 | [0455-assign-cookies](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0645-set-mismatch) |
+| [1096-brace-expansion-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1020-number-of-enclaves) |
+| [1096-brace-expansion-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
@@ -418,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0735-asteroid-collision) |
+| [1096-brace-expansion-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1096-brace-expansion-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1441-build-an-array-with-stack-operations) |
 ## Design
 |  |
