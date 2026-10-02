@@ -1,24 +1,28 @@
 class Solution:
-    def generateParenthesis(self, n: int) -> List[str]:
-        brackets = [""] * (2 * n)
+    def generateParenthesis(self, n: int) -> list[str]:
         result = []
 
-        def solve(ind, total, open_count):
-            if ind == len(brackets):
-                if total == 0:
-                    result.append("".join(brackets))
+        def backtrack(current, open_count, close_count):
+
+            if len(current) == 2 * n:
+                result.append(current)
                 return
 
-            # Add (
             if open_count < n:
-                brackets[ind] = "("
-                solve(ind + 1, total + 1, open_count + 1)
+                backtrack(
+                    current + "(",
+                    open_count + 1,
+                    close_count
+                )
 
-            # Add )
-            if total > 0:
-                brackets[ind] = ")"
-                solve(ind + 1, total - 1, open_count)
+            if close_count < open_count:
+                backtrack(
+                    current + ")",
+                    open_count,
+                    close_count + 1
+                )
 
-        solve(0, 0, 0)
+        backtrack("", 0, 0)
 
         return result
+        
