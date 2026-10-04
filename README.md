@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0127-word-ladder) |
+| [0678-valid-parenthesis-string](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1510-stone-game-iv) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0735-asteroid-collision) |
 | [1096-brace-expansion-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
