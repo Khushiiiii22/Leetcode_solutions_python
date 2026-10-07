@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1096-brace-expansion-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0994-rotting-oranges) |
