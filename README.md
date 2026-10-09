@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0836-rectangle-overlap) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1872-stone-game-viii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1021-remove-outermost-parentheses) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -504,4 +506,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0127-word-ladder) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
