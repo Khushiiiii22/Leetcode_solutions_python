@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0127-word-ladder) |
 | [0301-remove-invalid-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0301-remove-invalid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1021-remove-outermost-parentheses) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Khushiiiii22/Leetcode_solutions_python/tree/master/1768-merge-strings-alternately) |
